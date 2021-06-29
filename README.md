@@ -51,6 +51,7 @@
 18. If everything worked right, the specified user should get a direct message saying:
 
 _Thanks <@<ID>>! for testing this implementation_
+
 _You may now proceed to the next stage of the tutorial_
 
 # Start Learning Javascript for Discord
