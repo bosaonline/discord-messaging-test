@@ -1,0 +1,8 @@
+{
+  "name": "discord-messaging-test",
+  "author": "bosaonline <bosaonline4eva@gmail.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

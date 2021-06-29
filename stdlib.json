@@ -1,0 +1,6 @@
+{
+  "name": "bosaonline/discord-messaging-test",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
